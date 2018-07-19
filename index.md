@@ -1,6 +1,6 @@
-# API Service Standard 
+#API Service Standard 
 
-## The API Standards are a set of 17 criteria to help government create and run good API Services. 
+##The API Standards are a set of 17 criteria to help government create and run good API Services. 
 
 Before building your API we recommend you familiarise yourself with these Standards and [GDS API Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards). An API is a user interface for developers and shouldn’t just be functional but simple to use. Further reading for those who hold a more technical role can be found in our API Technical Standards. All APIs must meet the Service and Technical Standards. 
 
@@ -11,13 +11,13 @@ You must understand the needs of your API consumers by conducting research to de
 Every team developing APIs to be exposed on the API Platform must go through the API Service Process. This applies to all APIs, whether new or legacy, that are to be deployed on the API Platform. 
 
 ### 3. Do ongoing user research 
-Put a plan in place for ongoing user research, simulations and API usability testing to continuously seek feedback from users to improve the service. You must run hackathons and engage with 3rd party developers early on in the process and throughout the lifecycle of the API. 
+Put a plan in place for ongoing [user research](https://www.gov.uk/service-manual/user-research), simulations and API usability testing to continuously seek feedback from users to improve the service. You must run hackathons and engage with 3rd party developers early on in the process and throughout the lifecycle of the API. 
 
 ### 4. Have a multidisciplinary team 
 Put in place a sustainable multidisciplinary team that can design, build and operate the API service, led by a suitably empowered product owner and supported by a business owner.
 
 ### 5. Use agile methods 
-Build your API service using the agile, iterative and user-centered methods set out in the service manual. 
+Build your API service using the agile, iterative and user-centered methods set out in the [service manual](https://www.gov.uk/service-manual/agile-delivery). 
 
 ### 6. Iterate and improve your API frequently 
 Iterate and improve your API on a frequent basis and make sure that you have the capacity, resources and technical flexibility to do so, whilst proactively managing the impact this will have on your consumers. Think about your plan for providing ongoing maintenance of your API after your "go live" date. 
