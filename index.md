@@ -1,6 +1,6 @@
-#API Service Standard 
+# API Service Standard 
 
-##The API Standards are a set of 17 criteria to help government create and run good API Services. 
+## The API Standards are a set of 17 criteria to help government create and run good API Services. 
 
 Before building your API we recommend you familiarise yourself with these Standards and [GDS API Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards). An API is a user interface for developers and shouldn’t just be functional but simple to use. Further reading for those who hold a more technical role can be found in our API Technical Standards. All APIs must meet the Service and Technical Standards. 
 
