@@ -2,7 +2,7 @@
 
 ## The API Standards are a set of 17 criteria to help government create and run good API Services. 
 
-)Before building your API we recommend you familiarise yourself with these Standards and [GDS API Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards. An API is a user interface for developers and shouldn’t just be functional but simple to use. Further reading for those who hold a more technical role can be found in our API Technical Standards. All APIs must meet the Service and Technical Standards. 
+Before building your API we recommend you familiarise yourself with these Standards and [GDS API Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards). An API is a user interface for developers and shouldn’t just be functional but simple to use. Further reading for those who hold a more technical role can be found in our API Technical Standards. All APIs must meet the Service and Technical Standards. 
 
 ### 1. Understand the needs of your API consumers
 You must understand the needs of your API consumers by conducting research to develop knowledge of who they are and what that means for the design of the API and the associated documentation. You should think of an API as a “product” designed around user needs and user journeys.
